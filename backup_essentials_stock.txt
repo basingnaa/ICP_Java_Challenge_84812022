@@ -1,0 +1,10 @@
+coke 5 GHc2.5
+fanta 5 GHc2.5
+jack and jill 6 GHc2.0
+notebook 5 GHc5.0
+pen 10 GHc1.0
+pencil 10 GHc0.5
+eraser 10 GHc0.5
+ruler 10 GHc1.0
+soap 5 GHc5.0
+water 10 GHc1.2
